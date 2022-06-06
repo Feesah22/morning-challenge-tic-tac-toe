@@ -4,15 +4,16 @@
 
 ### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+
+<img width="783" alt="Screen Shot 2022-06-05 at 8 12 50 PM" src="https://user-images.githubusercontent.com/101997718/172076386-2c140516-752a-4d29-a9a9-1f0e29c4fee3.png">
+
+Language USED : JavaScript , HTML , CSS
+
+LESSON LEARNED
+____________________
+
+This project taught me that team work is valuable. I used HTML to organize and CSS to style. The game is tik tac toe, it let you know when you won.
+
 
 Example:
 ```
